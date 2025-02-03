@@ -1,0 +1,32 @@
+{
+    "address": "TF6stXVJ94ZPTHrag8559tvTJdhDfeihao",
+    "symbol": "USDT",
+    "name": "Tether USDT",
+    "decimals": 6,
+    "logoURI": "https://imgur.com/a/WkWIGCs",
+    "homepage": "https://tron.network/",
+    "MarketCapLink": "https://coinmarketcap.com/currencies/tether/",
+    "existingMarkets": [
+        {
+            "source": "Binance",
+            "pairs": [
+                "USDT/USDT",
+                "USDT/BUSD",
+                "USDT/BNB",
+                "USDT/USDC"
+            ]
+        },
+        {
+            "source": "Poloniex",
+            "pairs": [
+                "USDT/USDT"
+            ]
+        },
+        {
+            "source": "KuCoin",
+            "pairs": [
+                "USDT/USDT"
+            ]
+        }
+  ]
+}
